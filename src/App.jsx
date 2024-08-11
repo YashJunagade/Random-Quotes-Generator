@@ -1,4 +1,4 @@
-import Controls from "./components/controls";
+import Controls from "./components/Controls";
 import Display from "./components/Display";
 import { useEffect, useState } from "react";
 import axios from "axios";

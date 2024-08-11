@@ -12,7 +12,7 @@ function Controls({ tweetQuote, fetchQuote }) {
         }}
       >
         <button>
-          <i class="fa-brands fa-square-x-twitter"></i> tweet
+          <i className="fa-brands fa-square-x-twitter"></i> tweet
         </button>
       </a>
       <div id="new-quote">
