@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-Welcome to the Random Quote Generator! This is a simple web application that displays a random quote each time you click a button. The quotes are sourced from an API and are displayed with a dynamic background for a pleasant user experience.
+Welcome to the Random Quote Generator! This is a simple web application that displays a random quote each time you click a button.
 
 ## Technologies Used
 
